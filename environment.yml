@@ -1,0 +1,5 @@
+name: marias_cookies
+dependencies:
+  - python=3.9
+  - flask
+  - pip
